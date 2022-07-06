@@ -30,7 +30,7 @@ Distributed Ledger Technology (DLT)
 
 
 
-What is the problem : take control of our life and our data.
+ **What is the problem** : take control of our life and our data.
 
 #  The Basics of Web3 Technologies:
    - P2P distributed systems
@@ -60,8 +60,8 @@ What is the problem : take control of our life and our data.
 - Mutichains, Internet of Blockchains (example Polkadot and COSMOS/Tendermint)
 - Scalability (Transactions Per Second, Net bandwidth, Data Size),
 - Interoperability Multi-Chain, Cross-chain compatibility, 
--Sustainability, DAO Community for future development; 
--Deterministic finality
+- Sustainability, DAO Community for future development; 
+- Deterministic finality
 - Layer 2
 - ZK-Rollups, ...
 
@@ -71,7 +71,7 @@ What is the problem : take control of our life and our data.
    - DAO Community
 
 #  The value proposition
-    - Reduce censorship and empower people.
+   - Reduce censorship and empower people.
 
 It is about using technology to bring value back to artists, workers and reduce censorship from the few. It is about democratizing art, music with the power of Blockchain technology.
 
@@ -81,9 +81,9 @@ It is about using technology to bring value back to artists, workers and reduce 
 
 Three Sub-Categories
 
-1- Cryptocurrencies like Bitcoin
-2- Tokens like Utility Tokens
-3- Central Bank Tokens (CBDCs)
+- Cryptocurrencies like Bitcoin
+- Tokens like Utility Tokens
+- Central Bank Tokens (CBDCs)
 
 Source : **BRI**  Blockchain Research Institute (BRI)
 
