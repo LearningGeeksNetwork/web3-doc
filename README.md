@@ -79,7 +79,7 @@ It is about using technology to bring value back to artists, workers and reduce 
 
 ![alt TOKENS  Categories BRI](imgs/photo_2022-07-06_23-51-41.jpg)
 
-Three Sub-Categories
+**Three Sub-Categories**
 
 - Cryptocurrencies like Bitcoin
 - Tokens like Utility Tokens
@@ -93,5 +93,31 @@ Source : **BRI**  Blockchain Research Institute
 
 Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Blockchain too. Ethereum uses LinkedList with  Patricia Merkle Trees ...
 
-Distributed Hash Table (**DHT**) 
-Distributed Ledger Technology (**DLT**)
+- Distributed Hash Table (**DHT**) 
+- Distributed Ledger Technology (**DLT**)
+
+
+# References
+
+[web3 foundation  (Dr Gavin Wood)](https://web3.foundation/about/)
+
+[Dr Gavin Wood](http://gavwood.com/)
+
+[Why We Need Web 3.0 (Gavin Wood)](https://gavofyork.medium.com/why-we-need-web-3-0-5da4f2bf95ab)
+
+[Why it’s too early to get excited about Web3 By Tim O’Reilly](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
+
+https://2018.web3summit.com/
+https://2019.web3summit.com/
+
+[The Father of Web3 Wants You to Trust Less Gavin Wood, who coined the term Web3 in 2014](https://www.wired.com/story/web3-gavin-wood-interview/)
+
+https://www.web3.university/
+
+[Web3 Tech Stack Overview](http://wiki.web3.foundation/en/latest/tech_stack/tech_stack_overview/)
+
+[Chaos Computer Club : Web3 Summit 2018 ](https://www.youtube.com/watch?v=CP0Dd4N_bAE)
+
+
+[Tim O'Reilly attempts to clarify just what is meant by Web 2.0, the term first coined at a conference brainstorming session between O'Reilly Media and MediaLive International, which also spawned the Web 2.0 Conference.](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
+
