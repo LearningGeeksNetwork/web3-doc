@@ -1,7 +1,7 @@
 # web3-doc
-Web3 description
+## Web3 description
 
-![alt text](imgs/photo_2022-07-06_23-51-18.jpg)
+![alt Dr. Gavin Wood](imgs/photo_2022-07-06_23-51-18.jpg)
 
 What is Web3 from a technical point of view? Web3 is the juxtaposition of Web2.0 (Described by Tim O'Reilly)  and DLT (example Ethereum) and DHT (example IPFS, Holochain) technologies.
 
@@ -26,7 +26,7 @@ Distributed Ledger Technology (DLT)
 
 **Wallets** :  Software Wallet MetaMask, Hardware Wallet Ledger
 
-[title](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf)
+[Introducing the 2022 State of Crypto Report](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf)
 
 
 
@@ -77,7 +77,7 @@ It is about using technology to bring value back to artists, workers and reduce 
 
 
 
-![alt text](imgs/photo_2022-07-06_23-51-41.jpg)
+![alt TOKENS  Categories BRI](imgs/photo_2022-07-06_23-51-41.jpg)
 
 **TOKENS  Categories**
 
@@ -87,10 +87,10 @@ Three Sub-Categories
 2- Tokens like Utility Tokens
 3- Central Bank Tokens (CBDCs)
 
-Source : BRI
+Source : **BRI**  Blockchain Research Institute (BRI)
 
 
-![alt text](imgs/photo_2022-07-06_23-51-48.jpg)
+![alt Web3 Stack](imgs/photo_2022-07-06_23-51-48.jpg)
 
 Network architecture :  Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Blockchain too. Ethereum uses LinkedList with  Patricia Merkle Trees ...
 
