@@ -107,12 +107,12 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 
 [Why it’s too early to get excited about Web3 By Tim O’Reilly](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 
-https://2018.web3summit.com/
-https://2019.web3summit.com/
+- https://2018.web3summit.com/
+- https://2019.web3summit.com/
 
 [The Father of Web3 Wants You to Trust Less Gavin Wood, who coined the term Web3 in 2014](https://www.wired.com/story/web3-gavin-wood-interview/)
 
-https://www.web3.university/
+- https://www.web3.university/
 
 [Web3 Tech Stack Overview](http://wiki.web3.foundation/en/latest/tech_stack/tech_stack_overview/)
 
