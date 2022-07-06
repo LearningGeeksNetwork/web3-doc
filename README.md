@@ -57,7 +57,7 @@ What is the problem : take control of our life and our data.
 - Ethereum (2014) —> Smart-Contracts   
 
 # Blockchain 3.0
-- Mutichains, Internetof Blockchains (example Polkadot and COSMOS/Tendermint)
+- Mutichains, Internet of Blockchains (example Polkadot and COSMOS/Tendermint)
 - Scalability (Transactions Per Second, Net bandwidth, Data Size),
 - Interoperability Multi-Chain, Cross-chain compatibility, 
 -Sustainability, DAO Community for future development; 
@@ -75,11 +75,9 @@ What is the problem : take control of our life and our data.
 
 It is about using technology to bring value back to artists, workers and reduce censorship from the few. It is about democratizing art, music with the power of Blockchain technology.
 
-
+#  TOKENS  Categories 
 
 ![alt TOKENS  Categories BRI](imgs/photo_2022-07-06_23-51-41.jpg)
-
-**TOKENS  Categories**
 
 Three Sub-Categories
 
@@ -89,10 +87,11 @@ Three Sub-Categories
 
 Source : **BRI**  Blockchain Research Institute (BRI)
 
+#  Network architecture 
 
 ![alt Web3 Stack](imgs/photo_2022-07-06_23-51-48.jpg)
 
-Network architecture :  Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Blockchain too. Ethereum uses LinkedList with  Patricia Merkle Trees ...
+Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Blockchain too. Ethereum uses LinkedList with  Patricia Merkle Trees ...
 
 Distributed Hash Table (**DHT**) 
 Distributed Ledger Technology (**DLT**)
