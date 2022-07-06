@@ -85,7 +85,7 @@ Three Sub-Categories
 - Tokens like Utility Tokens
 - Central Bank Tokens (CBDCs)
 
-Source : **BRI**  Blockchain Research Institute (BRI)
+Source : **BRI**  Blockchain Research Institute 
 
 #  Network architecture 
 
