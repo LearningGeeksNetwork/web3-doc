@@ -90,7 +90,7 @@ It is about using technology to bring value back to artists, workers and reduce 
 
 ![alt TOKENS  Categories BRI](imgs/photo_2022-07-06_23-51-41.jpg)
 
-**Three Sub-Categories**
+**Three Sub-Categories of Digital Assets**
 
 - Cryptocurrencies like Bitcoin
 - Tokens like Utility Tokens
