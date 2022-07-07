@@ -115,8 +115,6 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
    - Polygon 
    - Solana
    - ...
- 
-   - 
 
 # References
 
