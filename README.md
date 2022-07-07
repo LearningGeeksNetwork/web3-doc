@@ -25,8 +25,8 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
 
 **Infrastructure** & Cryptography —>  GoLang, Rust, C/C++, ...
 
-Distributed Hash Table (DHT) 
-Distributed Ledger Technology (DLT) 
+- Distributed Hash Table (DHT) 
+- Distributed Ledger Technology (DLT) 
 
 **Network DLT**  —>   Ethereum 2.0, Polygon, Solana, Avalanche, Polkadot/Substrate (EVM Moonbeam), BigchainDB,  Cardano, Tezos, ZK-Rollups (zkSync, StarkNet, Aztec), KSI Blockchain - e-Estonia, ...
 
