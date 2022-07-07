@@ -114,6 +114,8 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
    - Polkadot ( Parity Technologies  Gavin James Wood is an English computer scientist, co-founder of Ethereum and creator of Polkadot and Kusama.)
    - Polygon 
    - Solana
+   - COSMOS
+   - Cardano
    - ...
 
 # References
