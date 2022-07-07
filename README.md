@@ -61,13 +61,13 @@ Distributed Ledger Technology (DLT)
    - User Centric
    
 #  Blockchain 1.0
-- Bitcoin (2009 Satoshi Nakamoto) —> Cryptocurrencies
+- **Bitcoin** (2009 Satoshi Nakamoto) —> Cryptocurrencies
 
 #  Blockchain 2.0
-- Ethereum (2014 Vitalik Buterin) —> Smart-Contracts   
+- **Ethereum** (2014 Vitalik Buterin) —> Smart-Contracts   
 
 # Blockchain 3.0
-- Web3 (Dr Gavin Wood) 
+- **Web3** (Dr Gavin Wood) 
 - Internet of Blockchains (example Polkadot and COSMOS/Tendermint)
 - Scalability (Transactions Per Second, Net bandwidth, Data Size),
 - Interoperability Multi-Chain, Cross-chain compatibility, 
@@ -107,6 +107,16 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 - Distributed Hash Table (**DHT**) 
 - Distributed Ledger Technology (**DLT**)
 
+
+#  The main ecosystems
+
+   - Ethereum ( ConsenSys by Joseph Lubin a Canadian-American entrepreneur )
+   - Polkadot ( Parity Technologies  Gavin James Wood is an English computer scientist, co-founder of Ethereum and creator of Polkadot and Kusama.)
+   - Polygon 
+   - Solana
+   - ...
+ 
+   - 
 
 # References
 
