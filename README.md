@@ -1,6 +1,16 @@
 # web3-doc
 ## Web3 description
 
+- Abstract :  Web3 has three dimentions: money, identity, governance.
+Andreas M. Antonopoulos  : The Internet of Money 
+Dr Gavin Wood : “Less trust, more truth.”
+
+- Web1 is the Internet where everything is free and decentralized, 
+- Web2 is the Internet of Uberization Platforms, 
+- Web3 is the Internet where everything is paid like in Cloud Computing. The Internet of Money. 
+
+**Web3 = The Internet of Money, Identity and Comunity Governance**
+
 ![alt Dr. Gavin Wood](imgs/photo_2022-07-06_23-51-18.jpg)
 
 What is Web3 from a technical point of view? Web3 is the juxtaposition of Web2.0 (Described by Tim O'Reilly)  and DLT (example Ethereum) and DHT (example IPFS, Holochain) technologies.
@@ -51,13 +61,14 @@ Distributed Ledger Technology (DLT)
    - User Centric
    
 #  Blockchain 1.0
-- Bitcoin (2009) —> Cryptocurrencies
+- Bitcoin (2009 Satoshi Nakamoto) —> Cryptocurrencies
 
 #  Blockchain 2.0
-- Ethereum (2014) —> Smart-Contracts   
+- Ethereum (2014 Vitalik Buterin) —> Smart-Contracts   
 
 # Blockchain 3.0
-- Mutichains, Internet of Blockchains (example Polkadot and COSMOS/Tendermint)
+- Web3 (Dr Gavin Wood) 
+- Internet of Blockchains (example Polkadot and COSMOS/Tendermint)
 - Scalability (Transactions Per Second, Net bandwidth, Data Size),
 - Interoperability Multi-Chain, Cross-chain compatibility, 
 - Sustainability, DAO Community for future development; 
@@ -98,6 +109,8 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 
 
 # References
+
+[The Meaning of Decentralization - Vitalik Buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 
 [web3 foundation  (Dr Gavin Wood)](https://web3.foundation/about/)
 
