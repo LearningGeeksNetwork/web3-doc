@@ -5,9 +5,9 @@
 - Andreas M. Antonopoulos  : The Internet of Money 
 - Dr Gavin Wood : “Less trust, more truth.”
 
-- Web1 is the Internet where everything is free and decentralized, 
-- Web2 is the Internet of Uberization Platforms, 
-- Web3 is the Internet where everything is paid like in Cloud Computing. The Internet of Money. 
+- **Web1** is the Internet where everything is free and decentralized, 
+- **Web2** is the Internet of Uberization Platforms, 
+- **Web3** is the Internet where everything is paid like in Cloud Computing. The Internet of Money. 
 
 **Web3 = The Internet of Money, Identity and Comunity Governance**
 
