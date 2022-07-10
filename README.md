@@ -2,6 +2,8 @@
 
 ![WebEvolution](imgs/1web3.png)
 
+**What is the problem** : take control of our life and our data.
+
 ## Web3 description
 
 - Abstract :  Web3 has three dimentions: Value (Money,TOKEN),  Identity,  Governance.
@@ -54,9 +56,6 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
 
 [Introducing the 2022 State of Crypto Report](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf)
 
-
-
- **What is the problem** : take control of our life and our data.
 
 #  The Basics of Web3 Technologies:
    - P2P distributed systems
