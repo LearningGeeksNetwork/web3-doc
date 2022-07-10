@@ -54,8 +54,6 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
 
 **Wallets** :  Software Wallet MetaMask, Hardware Wallet Ledger
 
-[Introducing the 2022 State of Crypto Report](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf)
-
 
 #  The Basics of Web3 Technologies:
    - P2P distributed systems
@@ -153,6 +151,8 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 [Dr Gavin Wood](http://gavwood.com/)
 
 [Why We Need Web 3.0 (Gavin Wood)](https://gavofyork.medium.com/why-we-need-web-3-0-5da4f2bf95ab)
+
+[Introducing the 2022 State of Crypto Report](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf)
 
 [Why it’s too early to get excited about Web3 By Tim O’Reilly](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 
