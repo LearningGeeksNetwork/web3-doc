@@ -1,7 +1,7 @@
 # web3-doc
 ## Web3 description
 
-- Abstract :  Web3 has three dimentions: money, identity, governance.
+- Abstract :  Web3 has three dimentions:  Money / Value,  Identity,  Governance.
 - Andreas M. Antonopoulos  : The Internet of Money 
 - Dr Gavin Wood : “Less trust, more truth.”
 
