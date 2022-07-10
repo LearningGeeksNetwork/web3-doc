@@ -166,6 +166,12 @@ https://e-estonia.com/solutions/cyber-security/ksi-blockchain/
 
 ![alt Polkadot / Substrate](imgs/PolkadotSubstrate.PNG)
 
+# Ocean Protocol 
+[Ocean Protocol](https://oceanprotocol.com/)
+
+![alt Ocean Protocol](imgs/OceanProtocolDataAlgoProcess.png)
+
+![alt Ocean Protocol](imgs/oceanProtocolSystem.png)
 
 # References
 
