@@ -146,7 +146,7 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 ![alt Web3 Stack](imgs/photo_2022-01-05_06-34-08.jpg)
 
 
-# The best projects in the Web3
+# The best projects in the Web3 from a technical point of view
 
 **GAIA-X project** 
 
