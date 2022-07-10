@@ -18,7 +18,6 @@
 
 **Web3 = The Internet of Value / Money, Identity and Comunity Governance**
 
-## Evolution of Web
 
 ![WebEvolution](imgs/WebEvolution.PNG)
 
