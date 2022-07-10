@@ -23,7 +23,7 @@
 ![WebEvolution](imgs/WebEvolution.PNG)
 
 
-What is Web3 from a technical point of view? 
+# What is Web3 from a technical point of view? 
 
 ![alt Dr. Gavin Wood](imgs/photo_2022-07-06_23-51-18.jpg)
 
