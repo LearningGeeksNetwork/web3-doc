@@ -4,6 +4,7 @@
 
 **What is the problem** : take control of our life and our data.
 
+
 ## Web3 description
 
 - Abstract :  Web3 has three dimentions: Value (Money,TOKEN),  Identity,  Governance.
@@ -114,6 +115,8 @@ It is about using technology to bring value back to artists, workers and reduce 
 Source : **BRI**  Blockchain Research Institute 
 
 #  Network architecture 
+
+![WebEvolution](imgs/photo_2019-08-08_01-41-24.jpg)
 
 ![alt Web3 Stack](imgs/photo_2022-07-06_23-51-48.jpg)
 
