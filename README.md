@@ -1,7 +1,7 @@
 # web3-doc
 ## Web3 description
 
-- Abstract :  Web3 has three dimentions:  Money / Value,  Identity,  Governance.
+- Abstract :  Web3 has three dimentions: Value (Money,TOKEN),  Identity,  Governance.
 - Andreas M. Antonopoulos  : The Internet of Money 
 - Dr Gavin Wood : “Less trust, more truth.”
 
@@ -10,12 +10,20 @@
 - **Web3** is the Internet where everything is paid like in Cloud Computing. The Internet of Money. 
 
 -----------------------------------------
+## The history of the Web
 
 - Web1 : communication centric 
 - Web2 : information centric
 - Web3 : user centric
 
-**Web3 = The Internet of Money, Identity and Comunity Governance**
+**Web3 = The Internet of Value / Money, Identity and Comunity Governance**
+
+## Evolution of Web
+
+![WebEvolution](WebEvolution.PNG)
+
+
+What is Web3 from a technical point of view? 
 
 ![alt Dr. Gavin Wood](imgs/photo_2022-07-06_23-51-18.jpg)
 
