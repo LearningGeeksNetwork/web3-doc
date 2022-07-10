@@ -136,7 +136,6 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
    - Cardano
    - ...
 
-# Web2 - Web3 integration architecture 
 
 ![alt Web3 Stack](imgs/Web2-Web3.PNG)
 
