@@ -9,6 +9,10 @@
 - **Web2** is the Internet of Uberization Platforms, 
 - **Web3** is the Internet where everything is paid like in Cloud Computing. The Internet of Money. 
 
+- Web1 : communication centric 
+- Web2 : information centric
+- Web3 : user centric
+
 **Web3 = The Internet of Money, Identity and Comunity Governance**
 
 ![alt Dr. Gavin Wood](imgs/photo_2022-07-06_23-51-18.jpg)
@@ -59,6 +63,8 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
    - Community
    - Ownership
    - User Centric
+   - Wallet as Web3 Identity
+   - DAO Governance & funding
    
 #  Blockchain 1.0
 - **Bitcoin** (2009 Satoshi Nakamoto) —> Cryptocurrencies
