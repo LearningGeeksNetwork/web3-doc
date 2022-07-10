@@ -160,6 +160,8 @@ https://e-estonia.com/solutions/cyber-security/ksi-blockchain/
 
 
 # Polkadot / Substrate (Parity Technologies)
+![alt Polkadot / Substrate](imgs/PolkadotSubstrate1.PNG)
+
 ![alt Polkadot / Substrate](imgs/PolkadotSubstrate.PNG)
 
 
