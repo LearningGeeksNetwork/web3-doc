@@ -9,6 +9,8 @@
 - **Web2** is the Internet of Uberization Platforms, 
 - **Web3** is the Internet where everything is paid like in Cloud Computing. The Internet of Money. 
 
+-----------------------------------------
+
 - Web1 : communication centric 
 - Web2 : information centric
 - Web3 : user centric
