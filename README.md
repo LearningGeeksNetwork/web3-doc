@@ -70,6 +70,7 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
    - Transparency,  ( Transparency does not mean lack of Privacy )
    - Decentralization, 
    - Disintermediation,
+   - Permissionless
    - Community
    - Ownership
    - User Centric
