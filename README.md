@@ -142,6 +142,27 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
    
 ![alt Web3 Stack](imgs/photo_2022-01-05_06-34-08.jpg)
 
+
+# The best projects in the Web3
+
+**GAIA-X project** 
+
+GAIA-X is a project reportedly working on the development of a federation of data infrastructure and service providers for Europe with the objective of ensuring a European digital sovereignty.
+https://en.wikipedia.org/wiki/GAIA-X
+
+The Chinese Blockchain-based Service Network (BSN)  project carries with it some similarities.
+
+![alt GAIA-X project](imgs/photo_2022-06-01_14-26-35.jpg)
+
+
+# KSI Blockchain - e-Estonia
+https://e-estonia.com/solutions/cyber-security/ksi-blockchain/
+
+
+# Polkadot / Substrate (Parity Technologies)
+![alt Polkadot / Substrate](imgs/PolkadotSubstrate.PNG)
+
+
 # References
 
 [The Meaning of Decentralization - Vitalik Buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
