@@ -134,6 +134,11 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
    - Cardano
    - ...
 
+#  Web2 - Web3 integration architecture 
+
+![alt Web3 Stack](imgs/Web2-Web3.PNG)
+   
+
 # References
 
 [The Meaning of Decentralization - Vitalik Buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
