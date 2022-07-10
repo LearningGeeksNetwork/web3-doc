@@ -20,7 +20,7 @@
 
 ## Evolution of Web
 
-![WebEvolution](WebEvolution.PNG)
+![WebEvolution](imgs/WebEvolution.PNG)
 
 
 What is Web3 from a technical point of view? 
