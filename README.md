@@ -106,7 +106,7 @@ It is about using technology to bring value back to artists, workers and reduce 
 
 #  TOKENS  Categories 
 
-![alt TOKENS  Categories BRI](imgs/photo_2022-07-06_23-51-41.jpg)
+![alt TOKENS  Categories BRI](imgs/TokensCategories.PNG)
 
 **Three Sub-Categories of Digital Assets**
 
@@ -130,6 +130,8 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 
 #  The main ecosystems
 
+![alt DLTs Ecosystems](imgs/blocktechnos.png)
+
    - Ethereum ( ConsenSys by Joseph Lubin a Canadian-American entrepreneur )
    - Polkadot ( Parity Technologies  Gavin James Wood is an English computer scientist, co-founder of Ethereum and creator of Polkadot and Kusama.)
    - Polygon 
@@ -137,6 +139,8 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
    - COSMOS
    - Cardano
    - ...
+
+  ![alt Rollups L2](imgs/ZK_Rollups.PNG) 
 
 
 ![alt Web3 Stack](imgs/Web2-Web3.PNG)
