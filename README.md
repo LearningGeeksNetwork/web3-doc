@@ -80,6 +80,7 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
    
 #  Blockchain 1.0
 - **Bitcoin** (2009 Satoshi Nakamoto) —> Cryptocurrencies
+  [https://learnmeabitcoin.com/](https://learnmeabitcoin.com/)
 
 #  Blockchain 2.0
 - **Ethereum** (2014 Vitalik Buterin) —> Smart-Contracts   
