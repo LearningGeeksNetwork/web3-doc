@@ -77,6 +77,8 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
    - Wallet as Web3 Identity
    - DAO Governance & funding
    - Collaboration in a Competition environment and whose members do not necessarily trust each other
+   - No single point of failure
+   - Censorship resistance
    
 #  Blockchain 1.0
 - **Bitcoin** (2009 Satoshi Nakamoto) —> Cryptocurrencies
