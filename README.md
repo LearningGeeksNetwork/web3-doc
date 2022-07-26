@@ -154,7 +154,7 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 
 ![alt Web3 Stack](imgs/Web2-Web3.PNG)
 
-
+ Ethereum L2 scaling solutions
 ![alt L2](imgs/0_qLYwpkbX0YuKQyaQ.jpg)
 
 
