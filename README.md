@@ -170,6 +170,7 @@ Ethereum 2.0 Clients
 
 
 THE EU DIGITAL ID WALLET IS COMING. 
+
 https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what
 
 
