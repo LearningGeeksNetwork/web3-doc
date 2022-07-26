@@ -155,6 +155,9 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
 ![alt Web3 Stack](imgs/Web2-Web3.PNG)
 
 
+![alt L2](imgs/0_qLYwpkbX0YuKQyaQ.jpg)
+
+
 # The future of ID(entity)
    
 ![alt Web3 Stack](imgs/photo_2022-01-05_06-34-08.jpg)
