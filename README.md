@@ -18,9 +18,9 @@
 -----------------------------------------
 ## The history of the Web
 
-- Web1 : communication centric 
-- Web2 : information centric
-- Web3 : user centric
+- Web1 : communication centric (Email 1972)
+- Web2 : information centric   (Web Browser 1990 CERN EU)
+- Web3 : user centric (Web3 Wallet, MetaMask was created by ConsenSys in 2016) (wikipedia)
 
 **Web3 = The Internet of Value / Money, Identity and Comunity Governance**
 
