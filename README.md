@@ -66,6 +66,7 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
    - DAO Community
 
 #  The main pillars of Web3 projects:
+   - Automation
    - Open Source, 
    - Transparency,  ( Transparency does not mean lack of Privacy )
    - Decentralization, 
@@ -74,6 +75,7 @@ Dr. Gavin Wood proposed a definition of the Web3. A picture is worth a thousand 
    - Community
    - Ownership
    - User Centric
+   - Empowering people
    - Wallet as Web3 Identity
    - DAO Governance & funding
    - Collaboration in a Competition environment and whose members do not necessarily trust each other
