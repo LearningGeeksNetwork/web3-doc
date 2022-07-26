@@ -119,8 +119,14 @@ Source : **BRI**  Blockchain Research Institute
 
 #  Network architecture 
 
+Distributed networks can be represented in the form of chords:
 ![alt WebEvolution](imgs/photo_2019-08-08_01-41-24.jpg)
+
+How a DLT network works:
 ![alt Ethereum Network](imgs/ethereum_network.gif)
+ 
+From left to right: for example a React.js app stored on IPFS allows access via Ethers.js to a smart-contract written in Solidity on the Ethereum Blockchain
+ 
 ![alt Web3 Stack](imgs/photo_2022-07-06_23-51-48.jpg)
 
 Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Blockchain too. Ethereum uses LinkedList with  Patricia Merkle Trees ...
