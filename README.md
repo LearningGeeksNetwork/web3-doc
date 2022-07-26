@@ -119,8 +119,8 @@ Source : **BRI**  Blockchain Research Institute
 
 #  Network architecture 
 
-![WebEvolution](imgs/photo_2019-08-08_01-41-24.jpg)
-
+![alt WebEvolution](imgs/photo_2019-08-08_01-41-24.jpg)
+![alt Ethereum Network](imgs/ethereum_network.gif)
 ![alt Web3 Stack](imgs/photo_2022-07-06_23-51-48.jpg)
 
 Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Blockchain too. Ethereum uses LinkedList with  Patricia Merkle Trees ...
