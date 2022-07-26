@@ -180,6 +180,9 @@ https://e-estonia.com/solutions/cyber-security/ksi-blockchain/
 
 ![alt Ocean Protocol](imgs/oceanProtocolSystem.png)
 
+## Gartner Hype Cycle for Blockchain and Web3, 2022
+![alt Gartner Hype Cycle](imgs/HC2022diagram.jpg)
+
 # References
 
 [The Meaning of Decentralization - Vitalik Buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
