@@ -182,6 +182,8 @@ https://e-estonia.com/solutions/cyber-security/ksi-blockchain/
 
 ## Gartner Hype Cycle for Blockchain and Web3, 2022
 ![alt Gartner Hype Cycle](imgs/HC2022diagram.jpg)
+[Gartner Hype Cycle for Blockchain and Web3, 2022](https://blogs.gartner.com/avivah-litan/2022/07/22/gartner-hype-cycle-for-blockchain-and-web3-2022/)
+
 
 # References
 
