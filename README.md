@@ -2,7 +2,7 @@
 
 ![WebEvolution](imgs/1web3.png)
 
-**What is the problem** : take control of our life and our data.
+**What is the problem** : take control of your life and your data.
 
 
 ## Web3 description
