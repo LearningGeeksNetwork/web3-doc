@@ -111,6 +111,9 @@ It is about using technology to bring value back to artists, workers and reduce 
 
 ![alt TOKENS  Categories BRI](imgs/TokensCategories.PNG)
 
+TOKEN 
+![alt TOKEN](imgs/TOKEN_1638702760556.jpg)
+
 **Three Sub-Categories of Digital Assets**
 
 - Cryptocurrencies like Bitcoin
@@ -149,13 +152,18 @@ Do Not Forget DLT - Blockchain is a Network which manages a LinkedList called Bl
    - Cardano
    - ...
 
-  ![alt Rollups L2](imgs/ZK_Rollups.PNG) 
+
+![alt Rollups L2](imgs/ZK_Rollups.PNG) 
 
 
 ![alt Web3 Stack](imgs/Web2-Web3.PNG)
 
  Ethereum L2 scaling solutions
 ![alt L2](imgs/0_qLYwpkbX0YuKQyaQ.jpg)
+
+
+Ethereum 2.0 Clients
+![alt TOKEN](imgs/ClientEth2.PNG)
 
 
 # The future of ID(entity)
