@@ -169,6 +169,10 @@ Ethereum 2.0 Clients
 ![alt Web3 Stack](imgs/photo_2022-01-05_06-34-08.jpg)
 
 
+THE EU DIGITAL ID WALLET IS COMING. 
+https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what
+
+
 # The best Web3 projects technical point of view
 
 **GAIA-X project** 
